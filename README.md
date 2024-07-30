@@ -4,7 +4,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-A database 
+A database for Employers to track Employees and more
 
 ## Table of Contents
 - [Installation](#installation)
